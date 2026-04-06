@@ -1,16 +1,15 @@
-## Hi there 👋
+# Emil Pastor
 
-<!--
-**emillaurence/emillaurence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI + Data + Graph nerd  
+Solutions Engineering Manager @ Neo4j ANZ  
 
-Here are some ideas to get you started:
+Building production AI systems and graph-powered architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+- https://medium.com/@emilpastor
+
+## Focus
+- AI systems (LLMs, GraphRAG)
+- Data platforms
+- Enterprise architecture
+- Solutions engineering
