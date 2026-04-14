@@ -67,7 +67,7 @@ I write about how AI systems actually behave in production:
 
 ## Current Focus
 
-- Agentic AI systems with enforceable governance  
+- Agentic AI + Data systems with enforceable governance  
 - Graph-based reasoning and traceability  
 - AI infrastructure that supports real enterprise constraints  
 
