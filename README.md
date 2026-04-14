@@ -4,7 +4,7 @@ Enterprise AI & Data Architecture Leader
 Sydney, Australia  
 
 🌐 https://emilpastor.io  
-💼 https://www.linkedin.com/in/emillaurencepastor/
+💼 https://www.linkedin.com/in/emillaurencepastor/  
 ✍️ https://medium.com/@emilpastor  
 
 ---
